@@ -1,0 +1,14 @@
+Item Number | Item Title | Price | Auction Date | Seller | Timestamp
+46435750 | Set of 6 Nancy Drew Mystery Stories Books | $4.99 | 12/8/2017 7:00:00 PM  | Goodwill of Orange County | 2017-12-06 23:19:18.812
+46555641 | Nancy Drew The Secret of Red Gate Farm Book | $7.99 | 12/7/2017 4:00:00 PM  | Goodwill Industries of North Central PA, Inc. | 2017-12-06 23:19:18.812
+46541379 | A Nancy drew  Mystery Story Set of 5 books | $6.49 | 12/7/2017 4:00:00 PM  | Goodwill Industries of North Central PA, Inc. | 2017-12-06 23:19:18.812
+46353797 | Nancy Ann Storybook Dolls-July, Aug., Sept. | $10.00 | 12/7/2017 6:13:00 PM  | Goodwill Industries of Akron, Ohio, Inc. | 2017-12-06 23:19:18.812
+46538963 | Vintage Storybook Doll by Nancy Ann | $10.00 | 12/11/2017 6:30:00 PM  | Goodwill Industries of the Columbia, Inc. | 2017-12-06 23:19:18.812
+46542897 | Nancy Drew The Secret of Shadow Ranch Book | $6.49 | 12/7/2017 4:00:00 PM  | Goodwill Industries of North Central PA, Inc. | 2017-12-06 23:19:18.812
+46396836 | Set of Two Nancy Drew Mystery Children's Books | $9.99 | 12/9/2017 5:00:00 PM  | Goodwill Industries Serving Eastern Nebraska &amp; Southwest Iowa | 2017-12-06 23:19:18.812
+46542896 | Nancy Drew The Mystery at Lilac Inn Book | $6.49 | 12/7/2017 4:00:00 PM  | Goodwill Industries of North Central PA, Inc. | 2017-12-06 23:19:18.812
+46515529 | 501 Sewing Hints craft book  By Nancy Zieman | $6.49 | 12/7/2017 8:18:00 PM  | Goodwill Industries of North Central PA, Inc. | 2017-12-06 23:19:18.812
+46350906 | The Prodigal Women By &quot;Nancy Hale&quot; Vintage Book | $6.99 | 12/10/2017 9:45:00 PM  | Goodwill Industries of St. Clair County (Goodwill SCC) | 2017-12-06 23:19:18.812
+46373752 | Nancy Ann Storybook Dolls-Debut & Nun | $10.00 | 12/7/2017 6:39:00 PM  | Goodwill Industries of Akron, Ohio, Inc. | 2017-12-06 23:19:18.812
+46395649 | Nancy Shippen, Maria Jewsbury Books One Signed | $6.99 | 12/9/2017 10:42:38 AM  | Goodwill Industries of Southern Arizona | 2017-12-06 23:19:18.812
+

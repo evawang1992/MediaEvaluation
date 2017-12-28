@@ -1,0 +1,3 @@
+Activity |               Item                |     Time
+Search | blue chair | 2017-12-12 10:05:23.495
+Search | blue chair | 2017-12-12 10:05:25.731
